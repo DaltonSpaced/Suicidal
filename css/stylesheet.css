@@ -3,19 +3,6 @@ a, a:visited {
     text-decoration:  none;
 }
 
-@font-face {
-    font-family: Fixedsys Excelsior;
-    font-style: normal;
-    src: url("font/fsex300-webfont.ttf");
-         url("font/fsex300-webfont.eot");
-         url("font/fsex300-webfont.woff");
-}
-
-
-div {
-    font-family: Fixedsys Excelsior;
-}
-
 #title {
     color: #FFFFFF;
     font-size: 32px;
@@ -50,7 +37,6 @@ a {
   color: #fff;
 }
 .title {
-  font-family: 'Runescape Chat Font Regular';
   font-weight: norma;
   font-size: 40px;
   text-align: left;
