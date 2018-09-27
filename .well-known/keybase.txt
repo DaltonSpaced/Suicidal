@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/redstonehomie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dontdieon.me
+  * I am redstonehomie (https://keybase.io/redstonehomie) on keybase.
+  * I have a public key with fingerprint 8907 71D8 9456 02EF 6BDD  5F09 34AE 4151 637E 82C9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101916ee34403fab9e96992182933c1849729b75637c58bd001e2cf1acb36ccce820a",
+      "fingerprint": "890771d8945602ef6bdd5f0934ae4151637e82c9",
+      "host": "keybase.io",
+      "key_id": "34ae4151637e82c9",
+      "kid": "0101916ee34403fab9e96992182933c1849729b75637c58bd001e2cf1acb36ccce820a",
+      "uid": "840b555f59622e3476d94ad8ca11a719",
+      "username": "redstonehomie"
+    },
+    "service": {
+      "hostname": "dontdieon.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1538072737,
+  "expire_in": 157680000,
+  "prev": "a3f7cacad813439e2f630248070eaa49c16ca75fa1f568958e6dafde69f9a40d",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJrSFRBFMd3y5YSkgqRQHvdigi2bea+Z5MyqKgo6lMWRtvcmbnrxfXe
+9e5dU3uQVFZUCtFLECqQHqAVVvahCO0BUZYJQQ9JP1iUJUlUFpHRXJE+9bH5Mpw5
+///vnDOcexPHBjKDNS/qijah/vbgo/aGdKCoeebZ7YLh0Eohul0oYSMXS1CW8mIl
+FhWiAoAAIqgyJskykExsIIZUhESoi0iSCNRlpInI0BRV0oiiGxQAyERiQkwMSSWE
+MF0EWAgLpmXHmZt0LdvjWB0BTYNUR7KiApGZqkGpYgIkyZjJUIGcxo0EcWOxk/Id
+vDkDp1jEcvgbD2Ij7f1D/5/7To/gdBkYiqKYClJFkTM1lSIZU51gCLEG/brpFHNt
+XMq42mU05Tk2K3ZKLSbsDAs8VW4R5v+uP86ojDq2Ry3m2BEehoWk63gOcRI8U+x5
+yahv9CqTvnIbM2KjjJhh2ZT/JTeUMzdlObYQhVxJPMuHQkXSgSZqkhYWWEXSclnM
+8hWKpuqAH78MK+dILJkawYTPACVZQkw0VQmIMjcDhrGMCFQJ1hQTQ1NRdaToTKXY
+pExFJsIyoII/VZntcLbI+8RxzkxZcRt7aZfPfKdtc0YgmBkIjRvjL1kgc8Kkv6vX
+OD5wPrJ4MO91emjd94/577LCDzqqT699shD3FC1bUWruKXQWFHuPc77Maavq2th2
+eXnTtOcX72arq+bNfn8/K3GlLsYmg/qf94zh2wds1BbKcRtPBq6vPZo9FPqqV1a8
+tMp23Xjb3303mLFvzm1rzX7aMbd65ZvpW25+2DZ+58f3JCun4FZv/taDeRUNlwai
+ZyZNm+4lvh1aFBzcWnnt2NT41YNVBYVns9avUtv7+mZ96nR7n/7OzO3M39V4qj5e
+W5M40doKhlfu/XV+6bP5Ykv98f4O1EPWla0e7sqQojMuwAvVtaH2kpZXux/+sJYs
+ORfpJoeHmo+EpuRumP9lx+emyECD9ugPyBFBug==
+=Zw0e
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/redstonehomie
+
+==================================================================
